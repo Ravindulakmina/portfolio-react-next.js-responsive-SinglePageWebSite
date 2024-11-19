@@ -5,7 +5,7 @@ import { useState } from "react";
 import Head from "next/head";
 import Image from "next/image";
 
-// image
+// images
 import profileImage from "../public/p2.png";
 import graphicDesign from "../public/design.png";
 import code from "../public/code.png";
